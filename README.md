@@ -2,10 +2,8 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - This study guide was built for students who not only need help organizing what they've learned, but also to give structure to their independent study. It includes dedicated sections for HTML, CSS, Git, and JavaScript.
-- Information will include how GitBash, GitHub, and VS Code work together from version control to merging branches as well as how HTML, CSS, and JavaScript work together to give structure, add style, and finally add functions to make a website fully functional.
+- Information will include how HTML, CSS, and JavaScript work together to give structure, add style, and finally add functions to make a website fully functional as well as the Git commands needed to successfully complete the Git Flow.
 
 ## Installation
 
@@ -13,9 +11,7 @@ N/A
 
 ## Usage
 
--This study guide works alongside the console in your browser (F12 in Windows, Command+Option+I in macOS), as the console allows us to see how JavaScript runs while we debug and practice code. 
--Each topic has its own dedicated section where notes can be reviewed. 
--Open the console. There will be a list of topics with a topic suggested to study first.
+-Open the console using F12 in Windows or Command+Option+I in macOS. There will be a list of topics with a topic suggested to study first.
 
 ## Credits
 
